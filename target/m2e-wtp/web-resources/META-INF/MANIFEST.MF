@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Valen
+Build-Jdk: 11.0.2
+Implementation-Title: planta-potabilizadora
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: ar.com.jsl
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/planta-potabilizadora
+Created-By: Maven Integration for Eclipse
+
